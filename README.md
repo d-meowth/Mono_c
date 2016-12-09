@@ -2,6 +2,13 @@
 A monopoly like program simulating a board of monopoly.
 
 Change log:
+v1.0 /// Debug release update /// Release debug build
++ More UI
++ Hid debug outputs
++ To access debug output you have to type 'Debug' at the start screen
++ Fixed a problem where if input fails the program would close
++ Added start message and input
++ Minor loop tweaks
 
 v0.9 /// Input update /// Debug build
 + Added user input
