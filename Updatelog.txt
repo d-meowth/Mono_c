@@ -6,11 +6,8 @@ Change log (only the latest version (for older version change log check https://
 - Removed
 * Updated
 
-v1.0 Release debug build
+v1.2.0 Release debug build /// Major
 
-+ More UI
-* Hid debug outputs
-+ To access debug output you have to type 'Debug' at the start screen
-* Fixed a problem where if input fails the program would close
-+ Added start message and input
-* Minor loop tweaks
++ Showing position as the name of the property (no longer number)
+* Showing the name of the property you bought with a much simpler code.
+* A lot of code tweaks
