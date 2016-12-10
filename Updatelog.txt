@@ -1,0 +1,16 @@
+/// Plays monopoly /// No jail ///
+
+Change log (only the latest version (for older version change log check https://github.com/d-meowth/Mono_c/tree/master))
+
++ Added
+- Removed
+* Updated
+
+v1.0 Release debug build
+
++ More UI
+* Hid debug outputs
++ To access debug output you have to type 'Debug' at the start screen
+* Fixed a problem where if input fails the program would close
++ Added start message and input
+* Minor loop tweaks
