@@ -1,8 +1,7 @@
 # Mono_c
 A monopoly like program simulating a board of monopoly.
 
-Change log:
-
+======= Change log =======  
 v1.3 /// Release debug build
 * Fixed a bug where the program would crash due to position being higher than array.
 
@@ -10,14 +9,15 @@ v1.2.2 /// Release debug build /// Major
 + It now shows position name not number
 + More debug output
 
+v1.0 /// Debug release update /// Release debug build
 
-v1.0 /// Release debug build
 + More UI
-* Hid debug outputs
++ Hid debug outputs
 + To access debug output you have to type 'Debug' at the start screen
-* Fixed a problem where if input fails the program would close
++ Fixed a problem where if input fails the program would close
 + Added start message and input
-* Minor loop tweaks
++ Minor loop tweaks
+>>>>>>> origin/master
 
 v0.9 /// Input update /// Debug build
 + Added user input
